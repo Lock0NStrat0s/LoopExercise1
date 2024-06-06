@@ -1,0 +1,89 @@
+// count = 1
+for (int i = 0; i < 5; i++) 
+{
+ Console.WriteLine($"{i}");
+}
+
+// count = 2
+for (int i = 0; i < 5; i++) 
+{
+ Console.WriteLine($"{i}");
+}
+
+// count = 3
+for (int i = 0; i < 5; i++) 
+{
+ Console.WriteLine($"{i}");
+}
+
+// count = 4
+for (int i = 0; i < 5; i++) 
+{
+ Console.WriteLine($"{i}");
+}
+
+// count = 5
+for (int i = 0; i < 5; i++) 
+{
+ Console.WriteLine($"{i}");
+}
+
+// count = 6
+for (int i = 0; i < 5; i++) 
+{
+ Console.WriteLine($"{i}");
+}
+
+// count = 7
+for (int i = 0; i < 5; i++) 
+{
+ Console.WriteLine($"{i}");
+}
+
+// count = 8
+for (int i = 0; i < 5; i++) 
+{
+ Console.WriteLine($"{i}");
+}
+
+// count = 9
+for (int i = 0; i < 5; i++) 
+{
+ Console.WriteLine($"{i}");
+}
+
+// count = 10
+for (int i = 0; i < 5; i++) 
+{
+ Console.WriteLine($"{i}");
+}
+
+// count = 11
+for (int i = 0; i < 5; i++) 
+{
+ Console.WriteLine($"{i}");
+}
+
+// count = 12
+for (int i = 0; i < 5; i++) 
+{
+ Console.WriteLine($"{i}");
+}
+
+// count = 13
+for (int i = 0; i < 5; i++) 
+{
+ Console.WriteLine($"{i}");
+}
+
+// count = 14
+for (int i = 0; i < 5; i++) 
+{
+ Console.WriteLine($"{i}");
+}
+
+// count = 15
+for (int i = 0; i < 5; i++) 
+{
+ Console.WriteLine($"{i}");
+}
